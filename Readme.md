@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/WpfWmsExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfWmsExample/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/WpfWmsExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/WpfWmsExample/MainWindow.xaml))
+<!-- default file list end -->
 # How to obtain an available WMS layer collection
 
 
