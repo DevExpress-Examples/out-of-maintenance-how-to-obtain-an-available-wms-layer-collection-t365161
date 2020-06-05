@@ -9,7 +9,7 @@ namespace WpfWmsExample {
         public MainWindow() {
             InitializeComponent();
         }
-        private void OnResponseCapabilities(object sender, CapabilitiesResponsedEventArgs e) {
+        private void OnResponseCapabilities(object sender, CapabilitiesRespondedEventArgs e) {
             listBox.ItemsSource = e.Layers;
         }
     }

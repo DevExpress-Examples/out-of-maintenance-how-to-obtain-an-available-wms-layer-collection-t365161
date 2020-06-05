@@ -11,7 +11,7 @@ Namespace WpfWmsExample
         Public Sub New()
             InitializeComponent()
         End Sub
-        Private Sub OnResponseCapabilities(ByVal sender As Object, ByVal e As CapabilitiesResponsedEventArgs)
+        Private Sub OnResponseCapabilities(ByVal sender As Object, ByVal e As CapabilitiesRespondedEventArgs)
             listBox.ItemsSource = e.Layers
         End Sub
     End Class
