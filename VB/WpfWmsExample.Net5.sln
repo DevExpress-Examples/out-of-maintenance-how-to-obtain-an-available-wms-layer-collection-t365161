@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfWmsExample", "WpfWmsExample\WpfWmsExample.csproj", "{7FD01394-E4F1-43AB-BD87-21B8516D32AF}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WpfWmsExample", "WpfWmsExample\WpfWmsExample.Net5.vbproj", "{7FD01394-E4F1-43AB-BD87-21B8516D32AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
